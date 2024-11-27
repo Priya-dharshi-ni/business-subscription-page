@@ -16,7 +16,7 @@ This project is a **business-focused subscription page** designed using **HTML**
 
 1. Clone the repository:  
    ```bash
-   [git clone <repository-url>](https://priya-dharshi-ni.github.io/subscription-page/)
+   git clone https://priya-dharshi-ni.github.io/subscription-page/
    ```
 2. Open the `index.html` file in your browser to explore the page.
 
