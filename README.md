@@ -12,13 +12,9 @@ This project is a **business-focused subscription page** designed using **HTML**
 - **HTML**: For the structure and content.
 - **CSS**: For styling and layout.
 
-## How to View
+## Visit
 
-1. Clone the repository:  
-   ```bash
-   git clone https://priya-dharshi-ni.github.io/subscription-page/
-   ```
-2. Open the `index.html` file in your browser to explore the page.
+   You can explore the **business-focused subscription page** by visiting https://priya-dharshi-ni.github.io/subscription-page/
 
 ## Preview
 
